@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31919.166
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LayeredApi", "LayeredApi\LayeredApi.csproj", "{1FA5DDAB-5C6B-4EBB-BA54-C8A8BCBA56AE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmployeeRepositories", "EmployeeRepositories\EmployeeRepositories.csproj", "{97247BD3-212F-4C9E-A5D4-0B20BE28AB00}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1FA5DDAB-5C6B-4EBB-BA54-C8A8BCBA56AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1FA5DDAB-5C6B-4EBB-BA54-C8A8BCBA56AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1FA5DDAB-5C6B-4EBB-BA54-C8A8BCBA56AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1FA5DDAB-5C6B-4EBB-BA54-C8A8BCBA56AE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{97247BD3-212F-4C9E-A5D4-0B20BE28AB00}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{97247BD3-212F-4C9E-A5D4-0B20BE28AB00}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{97247BD3-212F-4C9E-A5D4-0B20BE28AB00}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{97247BD3-212F-4C9E-A5D4-0B20BE28AB00}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {50D18D09-6900-4148-9362-6CC597C2E8E8}
+	EndGlobalSection
+EndGlobal
